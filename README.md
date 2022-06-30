@@ -1,15 +1,11 @@
 # ELITE_GENERATION
-2
+
 Bief_Projet : Conception de la refonte du site web de Energy Generation
-3
-​
-4
-​
-5
+
 Energy Generation est une association ayant pour objectif d’aider toute une génération de jeunes africains à faire face au défi de l’accès à l’électricité pour tous sur le continent. Le projet vise à promouvoir et à accompagner l’innovation technologique et l’entrepreneuriat social au niveau local afin d’identifier, développer et diffuser à grande échelle les solutions
-6
+
 d’électrification « Made in Africa » d’aujourd’hui et demain.
-7
+
 Le projet consiste donc à faire une refonte de leur site web; avec la collaboration et le travail acharné de mon équipe; nous avons puis obtenues en une semaine un rendu plus ou moins fonctionnel, reste à revoir le design et ajouter quelques fonctionnalités.
 
 ### Naissance du projet : 
@@ -40,7 +36,24 @@ Le site web est divisé en plusieurs sections à savoir :
 
 Pour plus de détaille cliquez ici https://github.com/ELITES-007/ELITE_GENERATION
 
-8
+### Technologie utilisées :
+
+- Github
+- Bootstrap
+- Vs code
+- Sublime
+- Infinity free
+- Php myadmin
+
+### Langeges utilisés :
+
+- Html
+- Css
+- Javascript
+- Php
+- Sql
+
+
 ###Contributeurs :
 
 - https://github.com/Massahgenesis
@@ -48,9 +61,9 @@ Pour plus de détaille cliquez ici https://github.com/ELITES-007/ELITE_GENERATIO
 - https://github.com/Samurai29z
 - https://github.com/ezokovich
 - Un grand merci à (EZOUN Victor, N'DJAO Massah, OURO-KPANTE Djamila)
-9
-​
-10
+
+
+
 ###TODO :
 
 
@@ -62,4 +75,4 @@ Pour plus de détaille cliquez ici https://github.com/ELITES-007/ELITE_GENERATIO
 
 - sandrinetohe5@gmail.com
 
-​
+
