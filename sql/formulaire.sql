@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Client :  localhost
--- Généré le :  Ven 01 Juillet 2022 à 02:09
+-- Généré le :  Ven 01 Juillet 2022 à 13:56
 -- Version du serveur :  10.1.19-MariaDB
 -- Version de PHP :  5.6.28
 
@@ -46,7 +46,8 @@ CREATE TABLE `formulaire` (
 --
 
 INSERT INTO `formulaire` (`id_mail`, `nom`, `prenom`, `genre`, `email`, `confirm_mail`, `area`, `numero_telephone`, `pays`, `niveau_etude`, `thematique_choisie`, `campus_pref`) VALUES
-(18, 'ezok', 'tbb', 'Homme', 'ezokovichtbb@gmail.com', 'ezokovich14@gmail.com', 233, 98543424, 'Djibouti', 'Bac+3', 'Energie', 'Campus Francophone - LomÃ©');
+(18, 'ezok', 'tbb', 'Homme', 'ezokovichtbb@gmail.com', 'ezokovich14@gmail.com', 233, 98543424, 'Djibouti', 'Bac+3', 'Energie', 'Campus Francophone - LomÃ©'),
+(19, 'TOHE', 'sandrine', 'Femme', 'ezokovichtbb@gmail.com', 'ezokovichtbb@gmail.com', 228, 98569706, 'Togo', 'Bac', 'Energie', 'Campus Anglophone - Accra');
 
 --
 -- Index pour les tables exportées
@@ -66,7 +67,7 @@ ALTER TABLE `formulaire`
 -- AUTO_INCREMENT pour la table `formulaire`
 --
 ALTER TABLE `formulaire`
-  MODIFY `id_mail` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+  MODIFY `id_mail` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

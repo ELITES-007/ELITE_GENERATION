@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Client :  localhost
--- Généré le :  Mer 29 Juin 2022 à 04:02
+-- Généré le :  Ven 01 Juillet 2022 à 13:57
 -- Version du serveur :  10.1.19-MariaDB
 -- Version de PHP :  5.6.28
 
@@ -40,14 +40,7 @@ INSERT INTO `commentaire` (`id`, `pseudo`, `commentaire`) VALUES
 (1, 'ezok', 'test'),
 (2, 'jojo', 'le boss\r\n'),
 (3, 'jojo', 'le boss\r\n'),
-(4, 'test', 'eso\r\n'),
-(5, 'test', 'eso\r\n'),
-(6, 'test', 'voila'),
-(7, 'test', 'voila'),
-(8, 'test', 'voila'),
-(9, 'test', 'voila'),
-(21, 'ezok', 'le boss'),
-(22, 'ezok', 'ko');
+(4, 'test', 'eso\r\n');
 
 --
 -- Index pour les tables exportées
@@ -67,7 +60,7 @@ ALTER TABLE `commentaire`
 -- AUTO_INCREMENT pour la table `commentaire`
 --
 ALTER TABLE `commentaire`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=80;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
