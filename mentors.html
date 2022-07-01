@@ -326,25 +326,24 @@
         <!--=================================================== debut de la section newsletter ==============================================-->
 
         <section class="newsletter">
-            <h1 class="news">NEWSLETTER</h1>
-            <form class="option">
-                <div class="form">
-                    Get our latest info, podcasts, advices...<br /><br /><br />
-                    First Name<br>
-                    <input type="nom"><br /><br />
-                    Email<br />
-                    <input type="mail"><br />
-                </div>
-                <div class="checkbox">
-                    <div>
-                        <input type="checkbox">Je prefere recevoir les information en francais<br /><br />
-                        <input type="checkbox">I wish to receive the content in English<br />
-                    </div>
-                    <div><button>subscribe</button></div>
-                </div>
-            </form>
-        </section>
-
+			<h1 class="news">NEWSLETTER</h1>
+			<form class="option" method="POST" action="form.php">
+				<div class="form">
+					Get our latest info, podcasts, advices...<br /><br /><br />
+					First Name<br>
+					<input type="nom" name="nom"><br /><br />
+					Email<br />
+					<input type="mail" name="email"><br />
+				</div>
+				<div class="checkbox">
+					<select name="langue">
+						<option type="checkbox">Je prefere recevoir les information en francais<br /><br />
+						<option type="checkbox">I wish to receive the content in English<br />
+					</select>
+					<div><button type="submit">subscribe</button></div>
+				</div>
+			</form>
+		</section>
         <!--=================================================== fin de la section newsletter ============================================-->
 
         <!--==================================================== debut de la section coppyright et lien =========================================-->

@@ -52,8 +52,7 @@ require_once('connect.php');
 		  
 		  mysqli_stmt_execute($stmt);
 	
-	
-         
+	echo"message send";         
  
 		?>
 
