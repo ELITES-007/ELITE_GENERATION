@@ -3,6 +3,7 @@
 	margin: 0;
 	box-sizing: border-box;
 	font-family: arial, sans-serif;
+	scroll-behavior: smooth;
 }
 
 	/************************************** stylisation de la navbar *******************************************/
@@ -22,14 +23,15 @@
 }
 .navbar .navbar-nav .nav-link{
 	color:black;
-	font-size: 30px;
+	font-size: 20px;
 	padding: 5 20;
 	
 }
 
-ul li a:hover{
+.navbar .navbar-nav .nav-link:hover{
 
-	background-color:#FEAE4A;
+	background-color:white;
+	color: rgba(255, 99, 72,1.0);
 	border-radius: 20px;
 	transform: translateY(3px);
 	transition: 1s;
@@ -117,7 +119,7 @@ div .img{
 
 }
 
-/************************* debut de traitement de la section .partenaires1 **********************/
+/************************* debut de traitement de la section .partenaires1/ils croient en nous **********************/
 
 
  section .partenaires1{
@@ -128,15 +130,20 @@ div .img{
 .partenaires1 .believe{
 
 	text-align: center;
-	padding: 30px;
-	background-color:#c7b79c96 ;
+	padding: 20px;
+	background-color:#232D84 ;
 	font-size: 40px;
-	color: #232D84;
+	color: white;
 	font-weight: bold;
 	margin-top: 1%;
 
-
 }
+
+.partenaires1 .container{
+	background-color: rgba(247, 241, 227,1.0);
+}
+
+
 
 /******************************* debut de traitement de la section medias *************************/
 
@@ -147,15 +154,14 @@ div .img{
 	background-color:#232D84;
 	color: white;
 	font-size: 40px;
-	padding: 30px;
+	padding: 20px;
 	font-weight: bold;
 }
 
 .medias .container{
 
-	background-color: white;
-	padding: 30px;
-
+	background-color: rgba(247, 241, 227,1.0);
+	
 }
 
 
@@ -167,15 +173,21 @@ div .img{
 	text-align: center;
 	color: white;
 	background-color: #232D84;
-	padding: 30px;
+	padding: 20px;
 	font-weight: bold;
+}
+
+.newsletter{
+
+	background-color: rgba(247, 241, 227,1.0);
 }
 
 .form{
 	margin-left: 40%;
+	
 }
 .form input{
-	width: 100%;
+	width: 400px;
 	height: 50px;
 	border-top: none;
 	border-right: none;
