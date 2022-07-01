@@ -56,21 +56,7 @@ div .img{
 	margin: 0 5px;
 }
        /************************************* fin de la navba ***************************************/
-         /******* ************************** traitement du hr *******************************************/
-
-.break-first{
-
-	background-color: #232D84;
-	color: #232D84;
-	width: 700px;
-	height: 5px;
-	justify-content: center;
-	border: none;
-	margin:10px auto;
-}
-
-          /******************************************* fin du traitement du hr ****************************/
-
+ 
 		/********************************** traitement des images de la premiere section ************************/ 
 
 
@@ -481,12 +467,6 @@ div .img{
 		margin: 0 5px;
 	}
 
-	.break-first{
-
-		width: 400px;
-		
-	}
-
 	.form{
 		margin-left: 17%;
 		font-size: 25px;
@@ -501,9 +481,7 @@ div .img{
 	.checkbox{
 		margin-left: 17%;
 		margin-top: 20px;
-		
 			
-		
 }
 
 
