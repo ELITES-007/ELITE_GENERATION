@@ -2,12 +2,14 @@
 
 Bief_Projet : Conception de la refonte du site web de Energy Generation
 
-Energy Generation est une association ayant pour objectif d’aider toute une génération de jeunes africains à faire face au défi de l’accès à l’électricité pour tous sur le continent. Le projet vise à promouvoir et à accompagner l’innovation technologique et l’entrepreneuriat social au niveau local afin d’identifier, développer et diffuser à grande échelle les solutions
+Energy Generation est une
+ association ayant pour objectif d’aider toute une génération de jeunes africains à faire face au défi de l’accès à l’électricité pour tous sur le continent. Le projet vise à promouvoir et à accompagner l’innovation technologique et l’entrepreneuriat social au niveau local afin d’identifier, développer et diffuser à grande échelle les solutions
 
 d’électrification « Made in Africa » d’aujourd’hui et demain.
 
 Le projet consiste donc à faire une refonte de leur site web; avec la collaboration et le travail acharné de mon équipe; nous avons puis obtenues en une semaine un rendu plus ou moins fonctionnel, reste à revoir le design et ajouter quelques fonctionnalités.
 
+<img width="1612" alt="Capture d’écran 2022-07-01 à 13 34 49" src="https://user-images.githubusercontent.com/100726144/176905270-7b0b8301-bc5f-475b-a50e-f6f089818bfb.png">
 ### Naissance du projet : 
 
 Il y a trois mois Energy Generation accueil sur son campus 80 étudiants par rapport au projet D-clic formez vous au numérique de l'OIF, pour testez leurs compétences acquéris au cours de ces trois mois, Energy Generation leurs confies la tâche de faire une refonte de son site web.
@@ -60,7 +62,7 @@ Pour plus de détaille cliquez ici https://github.com/ELITES-007/ELITE_GENERATIO
 - https://github.com/3sandre
 - https://github.com/Samurai29z
 - https://github.com/ezokovich
-- Un grand merci à (EZOUN Victor, N'DJAO Massah, OURO-KPANTE Djamila)
+- Un grand merci à (EZOUN Victor, N'DJAO Massah, OURO-KPANTE Djamila, TOHE Sandrine)
 
 
 
@@ -74,5 +76,11 @@ Pour plus de détaille cliquez ici https://github.com/ELITES-007/ELITE_GENERATIO
 ###Contact :
 
 - sandrinetohe5@gmail.com
+
+- massyndjao@gmail.com
+
+- djamilatou2912@gmail.com
+
+- ezokovichtbb@gmail.com
 
 
