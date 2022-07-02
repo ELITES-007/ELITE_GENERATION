@@ -8,6 +8,7 @@
 	margin: 0;
 	box-sizing: border-box;
 	font-family: arial, sans-serif;
+  scroll-behavior: smooth;
 }
 .header {
 	display: flex;
@@ -141,21 +142,19 @@
 	font-size: 20px;
 	padding: 5 20;
 }
+.navbar .navbar-nav .nav-link:hover{
 
-ul li a:hover{
-
-	background-color:#FEAE4A;
+	background-color:white;
+	color: rgba(255, 99, 72,1.0);
 	border-radius: 20px;
 	transform: translateY(3px);
 	transition: 1s;
 }
+
 .navbar  {
 	background-color: #c7b79c96;
 	position: sticky;
 	z-index: 2;
-}
-div .img{
-	align-items: center;
 }
 
 .drapeau{
@@ -164,23 +163,7 @@ div .img{
 	margin-bottom: 20px;
 	text-align: center;
 }
-.salle{
-	position: relative;
-	z-index: 1;
-}
-.deux{
-	position: absolute;
-	z-index: 2;
-}
 
-.espace{
-	padding: 5px;
-	color: #FEAE4A;
-}
-
- .section-portfolio h1{
-	text-align: center;
-}
 
 /*=======================programmes=============*/
 .secion-1{
